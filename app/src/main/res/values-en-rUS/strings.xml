@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Previsao do Tempo</string>
+    <string name="cidade">Enter a City</string>
+    <string name="validar_cidade">Enter a City in the field above</string>
+    <string name="validar_conexao">No connection...</string>
+    <string name="validar_busca">Seeking out...</string>
+    <string name="validar_erro">ERROR...</string>
+    <string name="semana">Week:</string>
+    <string name="data">Date:</string>
+    <string name="max">Max Temp:</string>
+    <string name="min">Min Temp:</string>
+    <string name="description">Description:</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Previsao do Tempo</string>
+    <string name="cidade" translatable="false">Digite uma Cidade</string>
+    <string name="validar_cidade" translatable="false">Digite uma Cidade no campo acima</string>
+    <string name="validar_conexao" translatable="false">Sem Conexão...</string>
+    <string name="validar_busca" translatable="false">Buscando...</string>
+    <string name="validar_erro" translatable="false">ERRO...</string>
+    <string name="semana" translatable="false">Semana:</string>
+    <string name="data" translatable="false">Data:</string>
+    <string name="max" translatable="false">Temp Max:</string>
+    <string name="min" translatable="false">Temp Min:</string>
+    <string name="description" translatable="false">Descrição:</string>
+</resources>

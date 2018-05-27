@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Previsao do Tempo</string>
+    <string name="cidade">" 都市に入る"</string>
+    <string name="description">説明：</string>
+    <string name="min">最小温度：</string>
+    <string name="max">最大温度：</string>
+    <string name="data">日付：</string>
+    <string name="semana">週：</string>
+    <string name="validar_erro">エラー...</string>
+    <string name="validar_busca">検索中...</string>
+    <string name="validar_conexao">接続なし...</string>
+    <string name="validar_cidade">上記のフィールドに都市を入力してください</string>
+</resources>
